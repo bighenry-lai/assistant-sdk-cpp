@@ -51,7 +51,7 @@ make LANGUAGE=cpp
 
 4. Make sure you setup env variable `$GOOGLEAPIS_GENS_PATH`
 ```
-export GOOGLEAPIS_GENS_PATH=./gens
+export GOOGLEAPIS_GENS_PATH=`pwd`/gens
 ```
 
 5. Clone and build assistant-grpc
