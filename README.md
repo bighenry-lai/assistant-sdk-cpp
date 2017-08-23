@@ -57,9 +57,9 @@ export GOOGLEAPIS_GENS_PATH=./gens
 5. Clone and build assistant-grpc
 ```
 cd ../
-git clone https://github.com/googlebowang/assistant-grpc.git
+git clone https://github.com/googlesamples/assistant-sdk-cpp.git
 
-cd assistant-grpc/
+cd assistant-sdk-cpp/
 make run_assistant
 ```
 
